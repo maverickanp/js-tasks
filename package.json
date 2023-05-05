@@ -1,0 +1,22 @@
+{
+  "name": "js-tasks",
+  "version": "1.0.0",
+  "description": "a javascript tasks for evaluation",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maverickanp/js-tasks.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Artur Pedrosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maverickanp/js-tasks/issues"
+  },
+  "homepage": "https://github.com/maverickanp/js-tasks#readme"
+}
