@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "a javascript tasks for evaluation",
   "main": "index.js",
+  "type" : "module",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/maverickanp/js-tasks/issues"
   },
-  "homepage": "https://github.com/maverickanp/js-tasks#readme"
+  "homepage": "https://github.com/maverickanp/js-tasks#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
 }
